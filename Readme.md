@@ -1,6 +1,9 @@
 ## OTTO Robot
 
-![alt text](OTTO.png)
+<div style="display: flex; justify-content: center;">
+  <img src="Images/OTTO.png" alt="Image 2" style="width: 50%;"/>
+</div>
+
 
 Otto robot is a mini robot controlled via a mobile app to perform movements:
 
